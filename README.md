@@ -4,7 +4,7 @@
 A Python program to calculate student grades based on marks input.
 
 ## 👥 Team Members
-- Sreenandhan PP (Developer)
+- Sreenandhan P P (Developer)
 
 ## 🎯 Project Goal
 To demonstrate Agile workflow using GitHub Issues, Kanban Board, and commits.
